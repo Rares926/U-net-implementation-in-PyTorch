@@ -1,0 +1,5 @@
+**/__pycache__/
+**/data/
+*.tar
+*.ptr
+**/my_checkpoint/
